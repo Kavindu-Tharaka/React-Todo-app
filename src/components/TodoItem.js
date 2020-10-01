@@ -14,7 +14,7 @@ class TodoItem extends React.Component {
     render() {
         const {title, handleDelete, handleEdit, isCompleted, toggleComplete} = this.props;
         const lineThrough = {
-            textDecoration: 'line-through'
+            textDecoration: 'line-through',
         }
         return (
             <div>
