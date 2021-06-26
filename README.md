@@ -2,8 +2,8 @@
 
 <p align="center">
 
-  <img src="(1).png" alt="Logo" height="350">
-  <img src="(1).png" alt="Logo" height="350">
-  <img src="(1).png" alt="Logo" height="350">
-  <img src="(1).png" alt="Logo" height="350">
+  <img src="ScreenShots/(1).png" alt="Logo" height="350">
+  <img src="ScreenShots/(2).png" alt="Logo" height="350">
+  <img src="ScreenShots/(3).png" alt="Logo" height="350">
+  <img src="ScreenShots/(4).png" alt="Logo" height="350">
 </p>
